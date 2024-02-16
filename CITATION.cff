@@ -3,4 +3,5 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: [Redacted]
 title: "ROS 2 private data flow analysis tool and experiments"
+url: "https://github.com/AnonCoderRepro/ROS2PrivacyFlow"
 date-released: 2024-02-16
